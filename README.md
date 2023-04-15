@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @LordEmir
+- 👋 Hi, I’m @EmirVoid
 - 👀 I’m interested in Network security and Machine language ...
 - 🌱 I’m currently learning c++ , python , and my fav Linux  ...
 - a opensource project lover which research  about.
+-also love to do bash scripting and python sctripting and ricing to make life and works in linux easier
 - 📫 braxbot@proton.me
 
 <!---

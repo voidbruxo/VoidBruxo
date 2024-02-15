@@ -1,12 +1,16 @@
-## - Bruxo -
-## Currently learning DevOps - Interested in reverse operating system engineering - Focusing on Python and Bash scripting - Pursuing LPIC certification - Passionate about low-level programming - Enthusiastic about open-source projects, privacy, and decentralized programs
+# Bruxo's Profile
+## Junior DevOps Engineer | Python, Bash, Rust Enthusiast
 
-I am Bruxo, a dedicated learner in the field of DevOps. My current focus is on expanding my knowledge and skills in reverse operating system engineering. I am particularly interested in understanding and manipulating operating systems at a fundamental level.
+### Welcome to my GitHub profile! I'm Bruxo, a Junior DevOps Engineer passionately exploring the realms of Python, Bash, and Rust. My journey in the world of technology aligns with the Unix philosophy, and I am particularly drawn to the elegance of the ### suckless project.
 
-My primary programming languages of choice are Python and Bash, and I am actively working towards obtaining LPIC certification to further enhance my expertise.
+## About Me
+### Actively contributing to the Linux and Free and Open Source Software (FOSS) community, dedicated to fostering its growth and improvement.
+### Currently advancing on my journey with a focus on LPIC (Linux Professional Institute Certification) and network-related skills, aiming for continuous learning and professional development.
 
-Low-level programming fascinates me as it allows me to explore the inner workings of computer systems and optimize their performance.
+## Contact Information
 
-I have a deep appreciation for open-source projects, as they embody the collaborative spirit of the developer community. Additionally, I am a strong advocate for privacy and decentralized programs, recognizing their significance in safeguarding user data and promoting user autonomy.
+#### Feel free to reach out to me via email for any inquiries or collaboration opportunities.
 
-I am eager to contribute to meaningful projects and collaborate with like-minded individuals who share my passion for technology and its potential to shape a better future.
+- Email: braxbot@protonmail.com
+
+### Let's connect and collaborate to elevate our shared expertise in the world of technology!

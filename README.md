@@ -2,7 +2,7 @@
 ## Junior DevOps Engineer | Python, Bash, Rust Enthusiast
 
 ### Welcome to my GitHub profile! I'm Bruxo, a Junior DevOps Engineer passionately exploring the realms of Python, Bash, and Rust. 
-### My journey in the world of technology aligns with the Unix philosophy and Freedom of Choise.
+### My journey in the world of technology aligns with the Unix philosophy and Freedom of Choise as well as Decentralized network.
 
 ## About Me
 ### Actively contributing to the Linux and Free and Open Source Software (FOSS) community, dedicated to fostering its growth and improvement.

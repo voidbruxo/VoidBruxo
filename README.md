@@ -1,6 +1,6 @@
 # Call Me Bruxo 🧙🏽‍♂️
 
-## Junior DevOps Engineer | Python, Bash, Rust ,C Enthusiast 👨🏻‍💻
+## Junior DevOps Engineer | Python, Bash, Rust ,C Enthusiast  👨🏻‍💻
 
 <p align="center">
   <br><img src="https://github.com/voidbruxo/workers-cloudflare/blob/main/Other/pics/snake.svg" width="1480px">

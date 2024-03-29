@@ -13,9 +13,11 @@
 ### Welcome to my GitHub profile! I'm Bruxo, a Junior DevOps Engineer passionately exploring the realms of Python, Bash, and Rust. 
 ### My journey in the world of technology aligns with the Unix philosophy and Freedom of Choise as well as Decentralized network.
 <br>
-
+<br>
 ## About Me
 
+</br>
+<br>
 </br>
 <br>
 
@@ -23,7 +25,7 @@
 ### Currently advancing on my journey with a focus on LPIC (Linux Professional Institute Certification) and network-related skills, aiming for continuous learning and professional development.
 
 </br>
-
+</br>
 ## Contact Information
 
 #### Feel free to reach out to me via email for any inquiries or collaboration opportunities.

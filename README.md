@@ -9,8 +9,8 @@
 
 ## Status 💡
 
-<p align="Left"><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="Left" src="https://github-readme-stats.vercel.app/api?username=voidbruxo&show_icons=true&theme=tokyonight" />
+<p align="Right"><a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="Right" src="https://github-readme-stats.vercel.app/api?username=voidbruxo&show_icons=true&theme=tokyonight" />
 </a></p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=voidbruxo&theme=github-dark-dimmed&hide_border=true&border_radius=1.8&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&card_width=500)](https://git.io/streak-stats)

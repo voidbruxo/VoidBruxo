@@ -1,26 +1,29 @@
-# Bruxo's Profile
-## Junior DevOps Engineer | Python, Bash, Rust Enthusiast
+# Call Me Bruxo 🧙🏽‍♂️
 
-## 💡 Info
+## Junior DevOps Engineer | Python, Bash, Rust ,C Enthusiast 👨🏻‍💻
 
-
-<a href="https://github.com/agam778">
-  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=voidbruxo&theme=dark&show_icons=true)">
-  <img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=voidbruxo&theme=dark">
-</a>
+<p align="center">
+  <br><img src="https://github.com/voidbruxo/workers-cloudflare/blob/main/Other/pics/snake.svg" width="1480px">
+</p>
 
 
-### Welcome to my GitHub profile! I'm Bruxo, a Junior DevOps Engineer passionately exploring the realms of Python, Bash, and Rust. 
-### My journey in the world of technology aligns with the Unix philosophy and Freedom of Choise as well as Decentralized network.
+## 💡 Status
 
-### Actively contributing to the Linux and Free and Open Source Software (FOSS) community, dedicated to fostering its growth and improvement.
-### Currently advancing on my journey with a focus on LPIC (Linux Professional Institute Certification) and network-related skills, aiming for continuous learning and professional development.
+<p align="Left"><a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="Left" src="https://github-readme-stats.vercel.app/api?username=voidbruxo&show_icons=true&theme=tokyonight" />
+</a></p>
 
-## Contact Information
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=voidbruxo&theme=github-dark-dimmed&hide_border=true&border_radius=1.8&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&card_width=500)](https://git.io/streak-stats)
 
-#### Feel free to reach out to me via email for any inquiries or collaboration opportunities.
+[![](https://visitcount.itsvg.in/api?id=voidbruxo&label=Profile%20Visit&pretty=true)](https://visitcount.itsvg.in)
 
-- Email: braxbot@protonmail.com
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Contact Information 🤙🏻
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Let's connect and collaborate to elevate our shared expertise in the world of technology!
+[![icons8-GitHub-64](https://img.icons8.com/arcade/64/github.png)](https://github.com/voidbruxo)
+[![icons8-Telegram-64](https://img.icons8.com/arcade/64/telegram-app.png)](https://t.me/imbruxo)
+[![icons8-gmail-64](https://img.icons8.com/?size=60&id=JvavVaAzDz8e&format=png)](mailto:braxbot@protonmail.com)
+[![icons8-LinkedIn-64](https://img.icons8.com/arcade/64/linkedin-circled.png)](https://au.linkedin.com/in/voidbruxo)
+
+### Let's connect and collaborate to elevate our shared expertise in the world of technology! ✅
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

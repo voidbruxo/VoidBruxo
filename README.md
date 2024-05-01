@@ -22,8 +22,9 @@
 
 [![icons8-GitHub-64](https://img.icons8.com/arcade/64/github.png)](https://github.com/voidbruxo)
 [![icons8-Telegram-64](https://img.icons8.com/arcade/64/telegram-app.png)](https://t.me/imbruxo)
-[![icons8-gmail-64](https://img.icons8.com/?size=60&id=JvavVaAzDz8e&format=png)](mailto:braxbot@protonmail.com)
+[![icons8-gmail-64](https://img.icons8.com/?size=64&id=JvavVaAzDz8e&format=png)](mailto:braxbot@protonmail.com)
 [![icons8-LinkedIn-64](https://img.icons8.com/arcade/64/linkedin-circled.png)](https://au.linkedin.com/in/voidbruxo)
+[![icons8-LinkedIn-64](https://img.icons8.com/?size=64&id=34886&format=png)](https://gitlab.com/imbruxo)
 
 ### Let's connect and collaborate to elevate our shared expertise in the world of technology! ✅
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

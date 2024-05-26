@@ -18,6 +18,16 @@
 [![](https://visitcount.itsvg.in/api?id=voidbruxo&label=Profile%20Visit&pretty=true)](https://visitcount.itsvg.in)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## My Current Focus
+
+- bash script for my gentoo install and dotfiles
+- Learning some Network Basics
+- fork of FUCK GFW TUI app
+- make a TUI script for tor 
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Contact Information 🤙🏻
 
 [![icons8-GitHub-64](https://img.icons8.com/arcade/64/github.png)](https://github.com/voidbruxo)

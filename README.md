@@ -24,9 +24,9 @@
 - Learning some Network Basics
 - fork of FUCK GFW TUI app
 - make a TUI script for tor 
-
-
-
+## My  Current Challenege
+- remove all floating functions and keybindings of dwm
+- maybe fork dwm for even less bloated wm XD
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Contact Information 🤙🏻
 

@@ -30,7 +30,7 @@
 - maybe fork dwm for even less bloated wm XD
 ## My Passions ::
 
-Unix Philosophy , Privacy/Security , F.O.S.S , Linux/Bsd World :D
+Unix Philosophy , Privacy/Security , F.O.S.S , Linux/BSD World :D
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Contact Information 🤙🏻
 

@@ -18,17 +18,18 @@
 [![](https://visitcount.itsvg.in/api?id=voidbruxo&label=Profile%20Visit&pretty=true)](https://visitcount.itsvg.in)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## My Current Focus
+## My Current Focus ::
 
 - bash script for my gentoo install and dotfiles
 - Learning some Network Basics
 - fork of FUCK GFW TUI app
 - make a TUI script for tor 
-## My  Current Challenege
+## My  Current Challenege ::
 
 - remove all floating functions and keybindings of dwm
 - maybe fork dwm for even less bloated wm XD
-## My Passions
+## My Passions ::
+
 Unix Philosophy , Privacy/Security , F.O.S.S , Linux/Bsd World :D
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Contact Information 🤙🏻

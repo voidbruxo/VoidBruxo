@@ -25,8 +25,11 @@
 - fork of FUCK GFW TUI app
 - make a TUI script for tor 
 ## My  Current Challenege
+
 - remove all floating functions and keybindings of dwm
 - maybe fork dwm for even less bloated wm XD
+## My Passions
+Unix Philosophy , Privacy/Security , F.O.S.S , Linux/Bsd World :D
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Contact Information 🤙🏻
 

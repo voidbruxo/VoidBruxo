@@ -33,7 +33,7 @@
 Unix Philosophy , Privacy/Security , F.O.S.S , Linux/BSD World :D
 
 ## my Skills and Tools ::
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,wordpress,github,git,python,linux,azure,aws,docker,bash,c,cpp,electron,emacs,neovim,gitlab,heroku,matlab,obsidian,npm,workers,sublime,rust,debian)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wordpress,github,git,python,linux,qt,gtk,azure,aws,docker,bash,c,cpp,electron,emacs,neovim,gitlab,heroku,matlab,obsidian,npm,workers,sublime,rust,debian)](https://skillicons.dev)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Contact Information 🤙🏻

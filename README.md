@@ -31,6 +31,10 @@
 ## My Passions ::
 
 Unix Philosophy , Privacy/Security , F.O.S.S , Linux/BSD World :D
+
+## my Skills and Tools ::
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,github,git,python,linux,azure,aws,docker,podman,bash,c,cpp,electron,emacs,neovim,gitlab,heroku,matlab,obsidian,npm,workers,sublime,rust,debian)](https://skillicons.dev)
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Contact Information 🤙🏻
 

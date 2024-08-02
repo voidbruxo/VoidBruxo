@@ -32,7 +32,7 @@
 Unix Philosophy , Privacy/Security , F.O.S.S , Linux/BSD World :D
 
 ## Tools I use ::
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wordpress,github,git,python,linux,qt,gtk,azure,aws,docker,bash,c,cpp,electron,emacs,neovim,gitlab,heroku,matlab,obsidian,npm,workers,sublime,rust,debian,cloudflare,gcp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wordpress,github,git,python,linux,qt,azure,aws,docker,bash,electron,emacs,neovim,gitlab,heroku,matlab,obsidian,npm,workers,sublime,rust,debian,cloudflare,gcp)](https://skillicons.dev)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Contact Information 🤙🏻

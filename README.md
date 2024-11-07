@@ -20,13 +20,10 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## My Current Focus ::
 
-- bash script for my gentoo install and dotfiles
+- Learning New Libraries and Packages + Algorithms
 - Learning some Network Basics
-- make a TUI script for tor 
-## My  Current Challenege ::
+- make a TUI script for tor
 
-- remove all floating functions and keybindings of dwm :/
-- debloat and hardening Firefox :D
 ## My Passions ::
 
 Unix Philosophy , Privacy/Security , F.O.S.S , Linux/BSD World :D

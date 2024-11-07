@@ -36,7 +36,6 @@ Unix Philosophy , Privacy/Security , F.O.S.S , Linux/BSD World :D
 
 [![icons8-GitHub-64](https://img.icons8.com/arcade/64/github.png)](https://github.com/voidbruxo)
 [![icons8-gitlab-64](https://img.icons8.com/?size=64&id=34886&format=png)](https://gitlab.com/imbruxo)
-[![icons8-Telegram-64](https://img.icons8.com/arcade/64/telegram-app.png)](https://t.me/imbruxo)
 [![icons8-email-64](https://img.icons8.com/?size=70&id=fFbCvS8wxZFo&format=png&color=000000)](mailto:imbruxo@tuta.io)
 [![icons8-LinkedIn-64](https://img.icons8.com/arcade/64/linkedin-circled.png)](https://au.linkedin.com/in/voidbruxo)
 

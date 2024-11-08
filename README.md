@@ -22,8 +22,8 @@
   <img src="https://img.shields.io/badge/-Gentoo-5431E4?style=flat-square&logo=gentoo&logoColor=white" />
   <img src="https://img.shields.io/badge/-Emacs-7F5AB6?style=flat-square&logo=gnu-emacs&logoColor=white" />
   <img src="https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />

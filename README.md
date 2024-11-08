@@ -1,43 +1,59 @@
-# Call Me Bruxo 🧙🏽‍♂️
+<!-- Your GitHub Profile README.md -->
 
-## Junior SysAdmin | Python, Bash, Rust ,C Enthusiast  👨🏻‍💻
+<h1 align="center">Hi there! 👋 I'm Bruxo </h1>
 
 <p align="center">
-  <br><img src="https://github.com/voidbruxo/workers-cloudflare/blob/main/Other/pics/snake.svg" width="1480px">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=4A90E2&center=true&vCenter=true&width=900&lines=Photonic+Engineer+%7C+Quantum+Tech+Enthusiast;Linux+Power+User+%7C+Security+Researcher;Science+Lover+%7C+Guitar+Learner" alt="Typing SVG" />
 </p>
 
+---
 
-## Status 💡
+### About Me 👨‍💻
 
-<p align="Right"><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="Right" src="https://github-readme-stats.vercel.app/api?username=voidbruxo&show_icons=true&theme=tokyonight" />
-</a></p>
+- 🔭 Currently Pursuing: Laser and Optics graduate pursuing a Master’s in Quantum Information Engineering
+- 🌱 Learning: Quantum Computing, Emacs, vim, and Advanced Linux Scripting, Data Science Basics
+- 💡 Interests: Optical Networks, Quantum Information, Security Research, Minimalism
+- 🎸 Hobbies: Gym, Gaming, Reading Books, Metal Music, python & Bash Scripting
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=voidbruxo&theme=github-dark-dimmed&hide_border=true&border_radius=1.8&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&card_width=500)](https://git.io/streak-stats)
+### Tech Stack & Tools 🛠️
 
-[![](https://visitcount.itsvg.in/api?id=voidbruxo&label=Profile%20Visit&pretty=true)](https://visitcount.itsvg.in)
+<p align="left">
+  <img src="https://img.shields.io/badge/-Linux-0078D6?style=flat-square&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Gentoo-5431E4?style=flat-square&logo=gentoo&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Emacs-7F5AB6?style=flat-square&logo=gnu-emacs&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" />
+</p>
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## My Current Focus ::
+---
 
-- Learning New Libraries and Packages + Algorithms
-- Learning some Network Basics
-- make a TUI script for tor
+### Connect with Me 🤝
 
-## My Passions ::
+<p align="center">
+  <a href="https://linkedin.com/in/voidbruxo">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/voidbruxo">
+    <img src="https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:imbruxo@tuta.io">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-Unix Philosophy , Privacy/Security , F.O.S.S , Linux/BSD World :D
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=4A90E2&style=for-the-badge" alt="Profile views" />
+</p>
 
-## Tools I use ::
-[![My Skills](https://skillicons.dev/icons?i=js,github,c,git,python,linux,qt,azure,aws,docker,bash,electron,emacs,neovim,gitlab,heroku,matlab,obsidian,npm,workers,sublime,rust,debian,cloudflare,gcp)](https://skillicons.dev)
+---
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## Contact Information 🤙🏻
+### Fun Facts 🌌
 
-[![icons8-GitHub-64](https://img.icons8.com/arcade/64/github.png)](https://github.com/voidbruxo)
-[![icons8-gitlab-64](https://img.icons8.com/?size=64&id=34886&format=png)](https://gitlab.com/imbruxo)
-[![icons8-email-64](https://img.icons8.com/?size=70&id=fFbCvS8wxZFo&format=png&color=000000)](mailto:imbruxo@tuta.io)
-[![icons8-LinkedIn-64](https://img.icons8.com/arcade/64/linkedin-circled.png)](https://au.linkedin.com/in/voidbruxo)
-
-### Let's connect and collaborate to elevate our shared expertise in the world of technology! ✅
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+- 🧠 Lifelong learner in tech and science with a structured mind map for broad interests.
+- 🎶 Obsessed with relaxing instrumental music, deep customization, and open-source.
+- 🌎 Passionate about exploring opportunities in quantum tech and photonics for global impact.

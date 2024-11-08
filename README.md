@@ -10,7 +10,7 @@
 
 ### About Me 👨‍💻
 
-- 🔭 Currently Pursuing: Laser and Optics graduate pursuing a Master’s in Quantum Information Engineering
+- 🔭 Currently Pursuing: Laser and Optics undergraduate with passion for Quantum Information Engineering
 - 🌱 Learning: Quantum Computing, Emacs, vim, and Advanced Linux Scripting, Data Science Basics
 - 💡 Interests: Optical Networks, Quantum Information, Security Research, Minimalism
 - 🎸 Hobbies: Gym, Gaming, Reading Books, Metal Music, python & Bash Scripting

@@ -3,7 +3,7 @@
 <h1 align="center">Hi there! 👋 I'm Bruxo </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=4A90E2&center=true&vCenter=true&width=900&lines=Photonic+Engineer+%7C+Quantum+Tech+Enthusiast;Linux+Power+User+%7C+Security+Researcher;Science+Lover+%7C+Guitar+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=4A90E2&center=true&vCenter=true&width=900&lines=Optics/Photonics+Engineer+%7C+Quantum+Tech+Enthusiast;Linux+User+%7C+Security+Researcher;Science+Lover+%7C+F.O.S.S+Lover" alt="Typing SVG" />
 </p>
 
 ---

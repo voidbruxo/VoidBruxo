@@ -20,7 +20,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/-Linux-0078D6?style=flat-square&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/-Gentoo-5431E4?style=flat-square&logo=gentoo&logoColor=white" />
-    <img src="https://img.shields.io/badge/-debian-C41E3A?style=flat-square&logo=debian&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Rocky-019743?style=flat-square&logo=rockyLinux&logoColor=white" />
   <img src="https://img.shields.io/badge/-Emacs-7F5AB6?style=flat-square&logo=gnu-emacs&logoColor=white" />
   <img src="https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
